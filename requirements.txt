@@ -1,0 +1,11 @@
+click
+scikit-learn
+streamlit
+numpy
+pickle-mixin
+pandas
+imblearn
+tensorflow
+keras
+matplotlib
+ipykernel
