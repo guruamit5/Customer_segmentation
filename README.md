@@ -98,21 +98,7 @@ streamlit run main.py
 and see the application run on your machine. :open_mouth:
 
 
-## Contributing
 
-Criticism, doubts and suggestions feel free to send me:
-
-e-mail: marcosmatheusdepaivasilva@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/marcos-matheus-silva-089699b3/ :hugs:
-
-## Author
-
-Marcos Matheus de Paiva Silva
-
-## Credits
-
-The code written in Google Colaboratory was based on the steps of the book Aurelien Geron - hands on machine learning-2019. In addition, this code was developed based on everything I learned from: Jesse E.Agbe, Siddhardhan, Lucas Grassano Lattari, Shashank Kalanithi, Walisson Silva, Israel Dryer, Fernando Nakamuta,  Alex Freberg.
 
 
 ## License
