@@ -1,6 +1,5 @@
 # Customer-Segmentation_End-to-end-Project :man_scientist: :hugs: :computer:
 
-![screem.png](https://github.com/M-MSilva/Customer-Segmentation_End-to-end-Project/blob/master/Imagens/allimages.png) 
 
 ## Important notes about the project
 
