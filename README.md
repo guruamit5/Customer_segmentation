@@ -1,9 +1,7 @@
 # Customer-Segmentation_End-to-end-Project :man_scientist: :hugs: :computer:
 
 
-## Important notes about the project
 
-This project was built with numerous tools and technologies, this is a summary document. Therefore, if you want to obtain more statistical and computational information see [Google Colaboratory](https://github.com/M-MSilva/Customer-Segmentation_End-to-end-Project/blob/master/jupyter_notebook/Customer_Segmentation.ipynb), to read about the conclusions found about the project, analyze the [Report](https://github.com/M-MSilva/Predict-NBA-player-Points_End-to-end-Project/blob/master/Report/NBA_Project_M_MSilva.pdf). You can also access application created in [Web App](https://m-msilva-customer-segmentation-end-to-end-pro-deploymain-dj1l3y.streamlitapp.com/) and see more information of datasets at [Kaggle](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data).
 
 ## About this project
 
@@ -37,70 +35,14 @@ This project was developed to be part of my personal portfolio and served both t
 * About.
 
 
-## Instructions to run and/or compile the code
-
-### Initial Requirements
-
-The application is already running and it is not necessary to install anything on your machine, however, if you want to run the application locally, you must install the  [Python](https://www.python.org/downloads/release/python-390/) language on your machine. In addition, you must have the libraries listed below on your machine.
-
-### Built With
-
-* [Pandas 1.4.1](https://pypi.org/project/pandas/);
-* [Imblearn 0.0](https://pypi.org/project/imblearn/);
-* [seaborn 0.11.2](https://pypi.org/project/seaborn/0.11.2/);
-* [pickle-mixin 1.0.2](https://pypi.org/project/pickle-mixin/);
-* [numpy 1.22.2](https://pypi.org/project/numpy/);
-* [Streamlit 1.6.0](https://pypi.org/project/streamlit/);
-* [scikit-learn 1.0.2](https://pypi.org/project/scikit-learn/);
-* [Matplotlib 3.2.2](https://pypi.org/project/matplotlib/3.2.2/);
-* [Requests 2.27.1](https://pypi.org/project/requests/).
 
 Hosted In:
 
 * Streamlit
 
 
-### Running the Code
-
-The installations of the libraries are already explained in the links above, but if you want to be in the same versions I do:
-
-```bash
-pip install scikit-learn==1.0.2
-```
-```bash
-pip install streamlit==1.6.0
-```
-```bash
-pip install numpy==1.22.2
-```
-```bash
-pip install pickle-mixin==1.0.2
-```
-```bash
-pip install pandas==1.4.1
-```
-```bash
-pip install imblearn==0.0
-```
-
-```bash
-pip install matplotlib==3.2.2
-```
-
-done, go to the Deploy folder and type:
-
-```bash
-streamlit run main.py
-```
-
-
-and see the application run on your machine. :open_mouth:
 
 
 
 
-
-## License
-
-This project is licensed under the MIT License - see the file [LICENSE](LICENSE) for more details.
 
